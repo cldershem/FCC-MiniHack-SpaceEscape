@@ -11,3 +11,6 @@ section {
   margin: 5px;
 }
 
+header h1 {
+	text-align: center;
+}
