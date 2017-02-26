@@ -1,9 +1,13 @@
-.main
-  display: flex
-  justify-content: center
-  
-section
-  margin: 30px
-  
-.main-area button
-  margin: 5px
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+section {
+  margin: 30px;
+}
+
+.main-area button {
+  margin: 5px;
+}
+
