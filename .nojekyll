@@ -1,0 +1,2 @@
+Without this file github.io ignores files and folders that start with _.
+Also it takes forever to update after a commit.
