@@ -13,6 +13,15 @@ body {
   color: #EEF;
 }
 
+h1 {
+    text-align: center;
+    color: #000;
+    line-height: 100px;
+    font-weight: bold;
+    letter-spacing: 6px;
+    font-family: impact, sans-serif;
+}
+
 .container {
   background-color: rgba(255,255,255,0.7);
 }
