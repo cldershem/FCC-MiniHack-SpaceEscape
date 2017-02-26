@@ -43,7 +43,7 @@ localStorage.setItem('food', 0)
 
 gameState.buttons.map(function (button) {
 	if (button.display) {
-		$('.main-area').append('<button class="'+button.action+'"">'+button.name+'</button>')
+		$('.main-area').append('<button class="btn '+button.action+'"">'+button.name+'</button>')
 	}
 })
 
